@@ -6,7 +6,7 @@
 ***
 ___
 
-### Todos os problemas foram resolvidos em branchs diferentes:
+### Todos os problemas foram resolvidos em branchs diferentes e depois de resolvidos, são mergidos na branch master:
 * Problem/1 - **Contagem de nucleotídeos de DNA**
 * Problem/2 - **Transcrevendo DNA em RNA**
 
