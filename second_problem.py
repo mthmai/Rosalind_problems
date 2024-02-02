@@ -14,5 +14,5 @@ def seq_RNA(seq: str) -> str:
 
 if __name__ == '__main__':
 
-   seq = read_file('/home/ubuntu/Rosalind_problems/seq_rosalind.txt')
+   seq = read_file('/home/ubuntu/Área de Trabalho/rosalind_rna.txt')
    print('Aqui está o RNA: ', seq_RNA(seq))
