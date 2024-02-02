@@ -6,8 +6,8 @@
 ***
 ___
 
-### Todos os problemas foram resolvidos em branchs diferentes e depois de resolvidos, são mergidos na branch master:
-* Problem/1 - **Contagem de nucleotídeos de DNA**
-* Problem/2 - **Transcrevendo DNA em RNA**
-* Problem/3 - **As estruturas Secundárias e Terciárias do DNA**
+### Todos os problemas estão sendo resolvidos em funções e as funções estão sendo aplicadas em um ***if __name__ == '__main__'*** dentro do próprio arquivo de resolução:
+* Problem 1 - **Contagem de nucleotídeos de DNA** - ***file = first_problem.py***
+* Problem 2 - **Transcrevendo DNA em RNA** - ***file = second_problem.py***
+* Problem 3 - **As estruturas Secundárias e Terciárias do DNA** - ***file = third_problem.py***
 
